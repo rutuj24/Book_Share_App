@@ -10,4 +10,8 @@ To Do:
 
 Display data in recycler view<br>
 Add chat feature<br>
-Add phone number verification , or dual verification<br>
+Add phone number verification , or dual verification<br><br>
+
+
+How To Install<br>
+https://www.geeksforgeeks.org/how-to-clone-android-project-from-github-in-android-studio/
